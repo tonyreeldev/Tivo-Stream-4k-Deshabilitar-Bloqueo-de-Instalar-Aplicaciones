@@ -151,7 +151,7 @@ Al iniciar se muestra el banner con el estado de conexión actual:
 ```
   +----------------------------------------------+
   |        ADB WiFi Manager - TV Box Tool        |
-  |              by Leonel Rubira  v4            |
+  |              by Tony Reel  v4            |
   +----------------------------------------------+
 
   [ON]  Conectado: 192.168.68.106:5555
