@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================
 #  ADB WiFi Manager — TV Box Tool (macOS) v4
-#  Autor: Leonel Rubira | RP3
+#  Autor: Tony Reel
 #  Idiomas: Espanol / English
 #  Requisitos: adb (Android Platform Tools)
 #              brew install android-platform-tools
