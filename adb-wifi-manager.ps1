@@ -1,6 +1,6 @@
 # ============================================================
 #  ADB WiFi Manager - TV Box Tool (Windows) v4
-#  Autor: Leonel Rubira | RP3
+#  Autor: Tony Reel
 #  Idiomas: Espanol / English
 #  Requisitos: adb en PATH (Android Platform Tools)
 # ============================================================
