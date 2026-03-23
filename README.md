@@ -2,7 +2,7 @@
 
 Herramienta de línea de comandos para conectar, controlar, limpiar e instalar aplicaciones en TV Boxes y dispositivos Android vía ADB sobre WiFi. **Sin root. Sin cables después del primer uso.**
 
-> **Autor:** Leonel Rubira | RP3  
+> **Autor:** Tony Reel  
 > **Archivo:** `adb-wifi-manager.ps1`  
 > **Idiomas:** Español / English  
 > **Requisito único:** `adb` en el PATH del sistema
