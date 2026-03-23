@@ -768,8 +768,6 @@ Algunos paquetes del sistema no permiten desinstalación sin root. Usar opción 
 Uso libre para fines personales y educativos.  
 ## Créditos
 
-- [`tccplus`](https://github.com/jslegendre/tccplus) por jslegendre
-
 Si puedes regalame un caffe 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/yaba09)
